@@ -1,6 +1,7 @@
-# README.md
+# Quarkus-Bigqury-example
 
-このプロジェクトは、QuarkusとGoogle BigQueryを使用して実装されています。以下のリンクを参考にして、gradleとkotlinで開発されています。
+このプロジェクトは、QuarkusとGoogle BigQueryを使用して実装されています。  
+以下のリンクを参考にして、gradleとkotlinで開発されています。  
 
 https://docs.quarkiverse.io/quarkus-google-cloud-services/main/bigquery.html
 
@@ -14,3 +15,11 @@ https://docs.quarkiverse.io/quarkus-google-cloud-services/main/bigquery.html
 
 以上がこのプロジェクトの概要です。  
 詳細な情報や使い方については、[こちらのリンク](https://docs.quarkiverse.io/quarkus-google-cloud-services/main/bigquery.html)を参照してください。
+
+## 注意
+
+```code
+gcloud auth login
+```
+
+などGoogleCloudへのログインをしておく必要があります。
