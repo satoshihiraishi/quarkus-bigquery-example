@@ -1,4 +1,4 @@
-# Quarkus-Bigqury-example
+# Quarkus-BigQuery-Example
 
 このプロジェクトは、QuarkusとGoogle BigQueryを使用して実装されています。  
 以下のリンクを参考にして、gradleとkotlinで開発されています。  
